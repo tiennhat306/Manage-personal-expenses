@@ -1,0 +1,17 @@
+Tien Luong
+Thu nhap phu
+Tien thuong
+Dau thuong
+Tro cap
+Duoc chuyen tien
+Khac
+W_END
+An uong
+Mua sam
+Quan ao
+Di lai
+Di choi
+Tien dien nuoc
+Chuyen tien
+Khac
+W_END
